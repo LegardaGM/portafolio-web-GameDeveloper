@@ -1,9 +1,8 @@
 const REDES_SOCIALES = {
-    github: 'https://github.com/jaenfigueroa',
-    facebook: 'https://www.facebook.com/JaenDeveloper/',
-    twitter: 'https://twitter.com/JaenFigueroa_',
-    linkedin: 'https://www.linkedin.com/in/jaenfigueroa/',
-    correo: 'contact@jaenfigueroa.com'
+    github: 'https://github.com/LegardaGM',
+    itchio: 'https://legardagm.itch.io/',
+    linkedin: 'https://www.linkedin.com/in/LegardaGM/',
+    correo: 'legardagm@gmail.com'
   }
   
   ///////////////////////////////////////////////////////////////////////
@@ -11,13 +10,13 @@ const REDES_SOCIALES = {
   
   const TRABAJOS = [
     {
-      nombre: 'Puzzle Shuerk',
+      nombre: 'Shadow Twin',
       fecha: '28 - Oct - 2022',
       descripcion:
         'Game where you have to drag and drop to finish assembling the puzzle.',
-      website: 'https://jaenfigueroa.github.io/Rompecabezas/',
+      website: 'https://legardagm.itch.io/shadow-twin',
       github: 'https://github.com/jaenfigueroa/Rompecabezas',
-      imagen: './assets/proyectos/puzzle_shuerk.png'
+      imagen: 'portafolio-es/img/proyectos/miviaje.png'
     },
     {
       nombre: 'Halloween Pumpkin',

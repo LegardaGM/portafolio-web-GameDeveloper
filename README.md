@@ -12,5 +12,5 @@ Un desarrollador de videojuegos diseña, programa y optimiza los juegos, creando
 
 ## Link
 
-Puedes acceder a mi portafolio web haciendo click [aquí]().
+Puedes acceder a mi portafolio web haciendo click [aquí](https://legardagm.github.io/portafolio-web-GameDeveloper/).
 
